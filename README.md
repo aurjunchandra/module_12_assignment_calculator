@@ -11,7 +11,7 @@ A simple Flutter calculator app that performs basic arithmetic operations like a
 
 ## How to Run
 1. Clone this repository:
-git clone https://github.com/yourusername/flutter_calculator.git
+git clone [https://github.com/aurjunchandra/module_12_assignment_calculator.git]
 
 
 ## Author
